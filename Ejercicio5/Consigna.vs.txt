@@ -1,0 +1,3 @@
+Ejercicio 5: Cálculo del año en que cumplirás 80 años
+
+Escribe un programa que, dada la edad y el nombre de una persona, indique en qué año cumplirá 80 años y muestre un mensaje especial si ya supera esa edad.

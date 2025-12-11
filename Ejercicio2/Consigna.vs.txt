@@ -1,0 +1,4 @@
+Ejercicio 2: Condiciones
+
+Si tu edad es mayor o igual a 18 → imprime “Puedes trabajar remotamente”.
+Si no → imprime “Aún no”.

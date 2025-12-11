@@ -1,0 +1,13 @@
+Ejercicio 4: Mini sistema
+
+Haz un pequeño programa que pregunte (con variables definidas por ti):
+
+tu nivel de energía (0-100)
+
+tu motivación (0-100)
+
+Si ambos ≥ 50 imprime:
+“Hoy entreno como un programador profesional.”
+
+Si no:
+“Hoy igual avanzo, aunque sea poco.”

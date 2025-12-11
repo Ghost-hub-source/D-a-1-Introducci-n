@@ -1,0 +1,8 @@
+Ejercicio 1: Variables
+
+Crea:
+-Tu nombre
+-Tu edad
+-Si te gusta programar
+
+Y muestra los valores en consola.

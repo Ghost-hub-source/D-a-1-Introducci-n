@@ -1,0 +1,7 @@
+let energía = 100
+let motivación = 60
+if (energía > 50 && motivación > 50) {
+    console.log("Hoy entreno como un programador profesional.");
+    } else {
+        console.log("Hoy igual avanzo aunque sea un poco.");
+    }

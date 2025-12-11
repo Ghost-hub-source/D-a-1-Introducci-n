@@ -1,0 +1,6 @@
+let edad = 2
+if (edad >= 18) {
+    console.log("Puedes trabajar remotamente.");
+} else {
+console.log(edad <= 5 ? "Me tenés que estar cargando" : "Aún no");
+}

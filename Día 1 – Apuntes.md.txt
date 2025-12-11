@@ -1,0 +1,27 @@
+Sobre el día 1:
+La verdad es que voy entendiendo los conceptos y como aplicarlos.
+Si bien todavía me falta ir consolidando los conocimientos aprendidos para que sean más simples de entender y utilizar creo que voy aprendiendo rápido.
+
+Conceptos importantes: VOCBF
+
+Concepto1: Variables: Son cajas donde se guarda información/datos.
+
+Concepto2: Tipos de datos:
+a)Números
+b)Texto(string)
+c)Booleanos(true/false)
+d)Listas(arrays)
+e)Objetos(objetos= estructuras con información)
+
+Concepto3:Operadores: Son las operaciones matemáticas o comparaciones en un código.
+a)Matemáticas: +-*/
+b)Comparación: > < == ===
+c)Lógicos: && || !
+
+Concepto4: Condiciones: Es la toma de decisiones.
+a)If
+b)else
+
+Concepto5: Bucles: Es la repetición de algo x veces.
+
+Concepto6: Funciones: Bloque de código que realiza una tarea específica.
